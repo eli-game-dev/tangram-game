@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 public class DragShape : MonoBehaviour
 {
-    bool canMove;
-    bool dragging;
+    private bool canMove;
+    private bool dragging;
     Collider2D collider;
     private Vector2 offset;
-    static float seeMouseObject;
+    
     void Start()
     {
         collider = GetComponent<Collider2D>();
