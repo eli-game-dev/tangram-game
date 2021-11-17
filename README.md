@@ -12,6 +12,7 @@
   * [רכיבים רשמיים](https://github.com/eli-game-dev/tangram-game/blob/main/formal-elements.md)
 
 ## Core game loops
+itch.io: https://eliyahup.itch.io/tangram-game
 
 במטלה הזאת ממשתי עיצוב ראשוני של המשחק קודם יצרתי את הצורות והגדלים למשל כמו משולש ומקבלית שלא קיימים בעורך של יוניטי.
 איך לבנות את המשולש מצאתי באינטרנט ואת כל שאר הצורות עשיתי בעצמי.
